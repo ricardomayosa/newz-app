@@ -1,0 +1,6 @@
+[submodule "news-back"]
+	path = news-back
+	url = /news-back
+[submodule "news-front"]
+	path = news-front
+	url = /news-front
